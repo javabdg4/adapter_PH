@@ -1,4 +1,4 @@
-package edu.pawel;
+package edu.pawel.writer;
 
 public class Jason  {
     public void jason(){
