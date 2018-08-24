@@ -4,10 +4,14 @@ package edu.pawel;
  * Hello world!
  *
  */
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        Xml xml = new Xml();
+        xml.writeData();
+
     }
 }
